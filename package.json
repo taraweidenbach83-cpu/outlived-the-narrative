@@ -1,0 +1,33 @@
+{
+  "name": "outlived-the-narrative",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Interactive workbooks and guides for families navigating rare disease diagnosis and medically complex caregiving",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "jspdf": "^2.5.1",
+    "html2canvas": "^1.4.1",
+    "zustand": "^4.4.1",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.292.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/node": "^20.5.1",
+    "@types/react": "^18.2.20",
+    "@types/react-dom": "^18.2.7",
+    "eslint": "^8.48.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
